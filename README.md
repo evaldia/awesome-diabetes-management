@@ -9,6 +9,7 @@ Curated list of awesome open source diabetes software, libraries, tools and reso
 ## Sensor API
 - https://github.com/gagebenne/pydexcom
 
+## Other
 - https://github.com/LoopKit/Loop
 - https://github.com/LoopKit
 - https://github.com/Faltenreich/Diaguard
@@ -17,6 +18,11 @@ Curated list of awesome open source diabetes software, libraries, tools and reso
 - https://github.com/kritikaparmar-programmer/HealthCheck
 - https://github.com/tidepool-org
 - https://gitlab.com/lailah
+- [OpenAPS](https://openaps.org/)
+- https://github.com/NightscoutFoundation/xDrip
+- https://github.com/jamorham/xDrip-plus
+- https://github.com/jwoglom/tconnectsync
+- https://gitlab.com/markok314/glucograph
 
 ## DIY
 - https://github.com/hblanck/cgm_display
